@@ -1,0 +1,8 @@
+Kivy==1.11.0
+numpy==1.16.4
+PyYAML==5.1.1
+
+# cd "C:\Users\HP\Documents\courses\AI - DD2380\assignments\RL\rl2"
+# conda activate rlderby
+# python main.py settings.yml
+# sub 10104778

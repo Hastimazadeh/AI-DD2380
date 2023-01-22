@@ -1,0 +1,7 @@
+Kivy==1.11.0
+numpy==1.16.4
+PyYAML==5.1.1
+
+# cd "C:\Users\HP\Documents\courses\AI - DD2380\assignments\search\minimax_assignment"
+# conda activate fishingderby
+# python main.py settings.yml
